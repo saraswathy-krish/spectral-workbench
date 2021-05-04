@@ -460,7 +460,12 @@ jfeed@mattmarcum/jFeed#*:
   version "0.0.0"
   resolved "https://codeload.github.com/mattmarcum/jFeed/tar.gz/c3981fa3229339e9c0ac37e41f190aab52ab0638"
 
-jquery@jquery/jquery-dist#~2.1.3, jquery@~2.1.3:
+jquery@jquery/jquery-dist#~3.5.0:
+  version "3.5.1"
+  uid "4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
+  resolved "https://codeload.github.com/jquery/jquery-dist/tar.gz/4c0e4becb8263bb5b3e6dadc448d8e7305ef8215"
+
+jquery@~2.1.3:
   version "2.1.4"
   resolved "https://codeload.github.com/jquery/jquery-dist/tar.gz/7751e69b615c6eca6f783a81e292a55725af6b85"
 
